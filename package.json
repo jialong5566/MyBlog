@@ -1,0 +1,29 @@
+{
+  "name": "myblog",
+  "version": "1.0.0",
+  "description": "a personal blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jialong5566/MyBlog.git"
+  },
+  "keywords": [
+    "blog",
+    "mysql",
+    "vue"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jialong5566/MyBlog/issues"
+  },
+  "homepage": "https://github.com/jialong5566/MyBlog#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mysql": "^2.16.0",
+    "svg-captcha": "^1.3.12"
+  }
+}
